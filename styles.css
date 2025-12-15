@@ -22,3 +22,35 @@ background: #000000;
 Todos los elementos <span> contenidos en la clase "normal" 
 font-weight: bold;
 */ 
+
+
+a{
+    color: #C30;
+}
+
+#primero{
+color: #369;
+
+
+}
+
+#primero em{
+    color: #0000BB;
+background-color: #FFFFCC;  
+}
+
+#segundo{
+
+   color: #555; 
+}
+
+.especial {
+
+    color: #FFFF00;
+    background: #000000;
+}
+
+.normal span{
+font-weight: bold;
+
+}
